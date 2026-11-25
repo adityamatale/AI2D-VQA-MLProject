@@ -1,9 +1,5 @@
 # Diagram Understanding with Vision-Language Models
 
-**Course:** Machine Learning  
-**Students:** Glen Furtado, Aditya Matale, Malashri Garikapati  
-**Matriculation Numbers:** 80785727, 38415686, 26400541  
-**Group Number:** ML_DS_90_09
 
 ---
 
